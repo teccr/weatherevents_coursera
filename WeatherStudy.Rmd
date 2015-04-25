@@ -1,5 +1,5 @@
 ---
-title: "Study of Effects of Weather Events in the United States"
+title: "Effects of Weather Events in the United States Between 1970 and 2011"
 output: html_document
 ---
 
